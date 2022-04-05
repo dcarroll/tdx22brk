@@ -1,0 +1,31 @@
+[{
+        "sobject": "Bank_Product__c",
+        "saveRefs": true,
+        "files": [
+            "Bank_Product__c.json"
+        ]
+    },
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Contact0.json",
+            "Contact200.json",
+            "Contact400.json"
+        ]
+    },
+    {
+        "sobject": "Bank_Account__c",
+        "resolveRefs": true,
+        "saveRefs": true,
+        "files": [
+            "Bank_Account__c0.json",
+            "Bank_Account__c200.json",
+            "Bank_Account__c400.json",
+            "Bank_Account__c600.json",
+            "Bank_Account__c800.json",
+            "Bank_Account__c1000.json"
+        ]
+    }
+]

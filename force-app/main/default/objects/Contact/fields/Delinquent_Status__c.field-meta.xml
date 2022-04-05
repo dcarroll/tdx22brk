@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Delinquent_Status__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Is the account Delinquent</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Is the account Delinquent?</inlineHelpText>
+    <label>Delinquent_Status</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>

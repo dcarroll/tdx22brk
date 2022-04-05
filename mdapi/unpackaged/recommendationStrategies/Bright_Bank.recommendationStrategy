@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecommendationStrategy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <aiLoad>
+        <label>Einstein Upsell Recommendations</label>
+        <name>Einstein_Upsell_Recommendations</name>
+        <acceptanceLabel>Accept</acceptanceLabel>
+        <actionReference>Basic_Flow</actionReference>
+        <descriptionField>Description__c</descriptionField>
+        <recommendationDefinitionDevName>mlrd_0PpB0000000L2e9KAC_v0</recommendationDefinitionDevName>
+        <rejectionLabel>Decline</rejectionLabel>
+        <titleField>Name</titleField>
+    </aiLoad>
+    <contextRecordType>Contact</contextRecordType>
+    <if>
+        <childNode>Load_Premier_Benefits</childNode>
+        <childNode>Likely_to_Churn</childNode>
+        <label>Premier Customer</label>
+        <name>Premier_Customer</name>
+        <childNodeExpression>
+            <childName>Likely_to_Churn</childName>
+            <expression>true</expression>
+        </childNodeExpression>
+        <childNodeExpression>
+            <childName>Load_Premier_Benefits</childName>
+            <expression>$record.Premier_Customer__c = TRUE</expression>
+        </childNodeExpression>
+        <onlyFirstMatch>true</onlyFirstMatch>
+    </if>
+    <if>
+        <childNode>Load_Retention_Offer</childNode>
+        <childNode>Einstein_Upsell_Recommendations</childNode>
+        <label>Likely to Churn</label>
+        <name>Likely_to_Churn</name>
+        <childNodeExpression>
+            <childName>Load_Retention_Offer</childName>
+            <expression>$record.Churn_Score__c &gt; 50</expression>
+        </childNodeExpression>
+        <childNodeExpression>
+            <childName>Einstein_Upsell_Recommendations</childName>
+            <expression>$record.Churn_Score__c &lt;= 50</expression>
+        </childNodeExpression>
+        <onlyFirstMatch>true</onlyFirstMatch>
+    </if>
+    <label>Bright Bank</label>
+    <recommendationLoad>
+        <label>Premier Benefits Reminder</label>
+        <name>Load_Premier_Benefits</name>
+        <condition>
+            <field>Name</field>
+            <operator>CONTAINS</operator>
+            <value>
+                <type>TEXT</type>
+                <value>Lounge</value>
+            </value>
+        </condition>
+        <conditionLogic>and</conditionLogic>
+        <object>Recommendation</object>
+    </recommendationLoad>
+    <recommendationLoad>
+        <label>Load Retention Offer</label>
+        <name>Load_Retention_Offer</name>
+        <condition>
+            <field>Name</field>
+            <operator>CONTAINS</operator>
+            <value>
+                <type>TEXT</type>
+                <value>Retention</value>
+            </value>
+        </condition>
+        <conditionLogic>and</conditionLogic>
+        <object>Recommendation</object>
+    </recommendationLoad>
+    <union>
+        <childNode>Premier_Customer</childNode>
+        <label>Output</label>
+        <name>Output_2eb220dc0a1f4f549d2b403d980766e3</name>
+    </union>
+</RecommendationStrategy>

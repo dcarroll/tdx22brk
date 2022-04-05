@@ -1,0 +1,12 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Bank_Account__c",
+                "referenceId": "Bank_Account__cRef1"
+            },
+            "Name": "ind_ahor_fin_ult1",
+            "Bank_Product__c": "@Bank_Product__cRef1"
+        }
+    ]
+}

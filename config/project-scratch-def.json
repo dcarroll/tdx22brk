@@ -1,0 +1,19 @@
+{
+    "orgName": "dcarroll company",
+    "edition": "Developer",
+    "hasSampleData": false,
+    "features": [
+        "EnableSetPasswordInApi",
+        "EinsteinBuilderFree",
+        "EinsteinRecommendationBuilder",
+        "EinsteinRecommendationBuilderMetadata"
+    ],
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "mobileSettings": {
+            "enableS1EncryptedStoragePref2": false
+        }
+    }
+}

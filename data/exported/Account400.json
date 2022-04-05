@@ -1,0 +1,1804 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3aIAH"
+            },
+            "Name": "IFJdIGladstone Land Corporation",
+            "Industry": "Consumer Services",
+            "Description": "Real Estate Investment Trusts"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3bIAH"
+            },
+            "Name": "WSpucAware, Inc.",
+            "Industry": "Technology",
+            "Description": "Semiconductors"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3cIAH"
+            },
+            "Name": "qJLZVServiceSource International, Inc.",
+            "Industry": "Miscellaneous",
+            "Description": "Business Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3dIAH"
+            },
+            "Name": "AatRGDollar Tree, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Department/Specialty Retail Stores"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3eIAH"
+            },
+            "Name": "qCwkqThe Fresh Market, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Food Chains"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3fIAH"
+            },
+            "Name": "OeVigNewLink Genetics Corporation",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3gIAH"
+            },
+            "Name": "hmeLsNews Corporation",
+            "Industry": "Consumer Services",
+            "Description": "Newspapers/Magazines"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3hIAH"
+            },
+            "Name": "vykFZSTAAR Surgical Company",
+            "Industry": "Health Care",
+            "Description": "Ophthalmic Goods"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3iIAH"
+            },
+            "Name": "kdGxRPowerShares NASDAQ Internet Portfolio",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3jIAH"
+            },
+            "Name": "XJQMWCornerstone OnDemand, Inc.",
+            "Industry": "Technology",
+            "Description": "Computer Software: Prepackaged Software"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3kIAH"
+            },
+            "Name": "FEoMUSalix Pharmaceuticals, Ltd.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3lIAH"
+            },
+            "Name": "QKyzzQC Holdings, Inc.",
+            "Industry": "Finance",
+            "Description": "Investment Bankers/Brokers/Service"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3mIAH"
+            },
+            "Name": "wkfejDime Community Bancshares, Inc.",
+            "Industry": "Finance",
+            "Description": "Savings Institutions"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3nIAH"
+            },
+            "Name": "cNUGmDatalink Corporation",
+            "Industry": "Technology",
+            "Description": "EDP Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3oIAH"
+            },
+            "Name": "vPqohNVIDIA Corporation",
+            "Industry": "Technology",
+            "Description": "Semiconductors"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3pIAH"
+            },
+            "Name": "zKAOHOpen Text Corporation",
+            "Industry": "Technology",
+            "Description": "EDP Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3qIAH"
+            },
+            "Name": "ELUaWOraSure Technologies, Inc.",
+            "Industry": "Health Care",
+            "Description": "Medical/Dental Instruments"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3rIAH"
+            },
+            "Name": "RJpSHProShares UltraPro Short QQQ",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3sIAH"
+            },
+            "Name": "OaSDOGentex Corporation",
+            "Industry": "Capital Goods",
+            "Description": "Auto Parts:O.E.M."
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3tIAH"
+            },
+            "Name": "dVOYiinContact, Inc.",
+            "Industry": "Technology",
+            "Description": "Computer Software: Prepackaged Software"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3uIAH"
+            },
+            "Name": "dMSvWParke Bancorp, Inc.",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3vIAH"
+            },
+            "Name": "KbiVNCredit Suisse AG",
+            "Industry": "Finance",
+            "Description": "Investment Bankers/Brokers/Service"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3wIAH"
+            },
+            "Name": "GgUWJPowerShares S&P SmallCap Information Technology Portfolio",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3xIAH"
+            },
+            "Name": "BUpSPIllumina, Inc.",
+            "Industry": "Capital Goods",
+            "Description": "Biotechnology: Laboratory Analytical Instruments"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3yIAH"
+            },
+            "Name": "NHNDtNephroGenex, Inc.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW3zIAH"
+            },
+            "Name": "jFrNuCelldex Therapeutics, Inc.",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW40IAH"
+            },
+            "Name": "BQNmETrade Street Residential, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Real Estate Investment Trusts"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW41IAH"
+            },
+            "Name": "HCYBeOxford Lane Capital Corp.",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW42IAH"
+            },
+            "Name": "ToUEoEntegris, Inc.",
+            "Industry": "Consumer Non-Durables",
+            "Description": "Plastic Products"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW43IAH"
+            },
+            "Name": "VkNQPeFuture Information Technology Inc.",
+            "Industry": "Technology",
+            "Description": "EDP Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW44IAH"
+            },
+            "Name": "isgJFSynergetics USA, Inc.",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW45IAH"
+            },
+            "Name": "XfsBsGSI Technology, Inc.",
+            "Industry": "Technology",
+            "Description": "Semiconductors"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW46IAH"
+            },
+            "Name": "yTrvUEchoStar Corporation",
+            "Industry": "Technology",
+            "Description": "Radio And Television Broadcasting And Communications Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW47IAH"
+            },
+            "Name": "vJTnuE2open, Inc.",
+            "Industry": "Technology",
+            "Description": "Computer Software: Prepackaged Software"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW48IAH"
+            },
+            "Name": "EYTbyStarbucks Corporation",
+            "Industry": "Consumer Services",
+            "Description": "Restaurants"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW49IAH"
+            },
+            "Name": "jMLgAIkonics Corporation",
+            "Industry": "Miscellaneous",
+            "Description": "Industrial Machinery/Components"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4AIAX"
+            },
+            "Name": "KIjyEMerge Healthcare Incorporated.",
+            "Industry": "Technology",
+            "Description": "EDP Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4BIAX"
+            },
+            "Name": "cwlTxIntegrated Electrical Services, Inc.",
+            "Industry": "Capital Goods",
+            "Description": "Engineering & Construction"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4CIAX"
+            },
+            "Name": "rXaPlUnited-Guardian, Inc.",
+            "Industry": "Consumer Non-Durables",
+            "Description": "Package Goods/Cosmetics"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4DIAX"
+            },
+            "Name": "okBjIArgo Group International Holdings, Ltd.",
+            "Industry": "Finance",
+            "Description": "Specialty Insurers"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4EIAX"
+            },
+            "Name": "LKczyServisFirst Bancshares, Inc.",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4FIAX"
+            },
+            "Name": "CtBBoOlympic Steel, Inc.",
+            "Industry": "Basic Industries",
+            "Description": "Metal Fabrications"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4GIAX"
+            },
+            "Name": "UtxczAmerican Capital Mortgage Investment Corp.",
+            "Industry": "Consumer Services",
+            "Description": "Real Estate Investment Trusts"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4HIAX"
+            },
+            "Name": "ckDXDANI Pharmaceuticals, Inc.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4IIAX"
+            },
+            "Name": "HYukyVertex Energy, Inc",
+            "Industry": "Public Utilities",
+            "Description": "Environmental Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4JIAX"
+            },
+            "Name": "XdlgXBank Mutual Corporation",
+            "Industry": "Finance",
+            "Description": "Savings Institutions"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4KIAX"
+            },
+            "Name": "QIYvtMerit Medical Systems, Inc.",
+            "Industry": "Health Care",
+            "Description": "Medical/Dental Instruments"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4LIAX"
+            },
+            "Name": "wQRQlCintas Corporation",
+            "Industry": "Consumer Non-Durables",
+            "Description": "Apparel"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4MIAX"
+            },
+            "Name": "RCPHcOxford Lane Capital Corp.",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4NIAX"
+            },
+            "Name": "nIwJdXilinx, Inc.",
+            "Industry": "Technology",
+            "Description": "Semiconductors"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4OIAX"
+            },
+            "Name": "mrzaQMartin Midstream Partners L.P.",
+            "Industry": "Energy",
+            "Description": "Oil Refining/Marketing"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4PIAX"
+            },
+            "Name": "DEnfaHawaiian Holdings, Inc.",
+            "Industry": "Transportation",
+            "Description": "Air Freight/Delivery Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4QIAX"
+            },
+            "Name": "lSrFrMagic Software Enterprises Ltd.",
+            "Industry": "Technology",
+            "Description": "Computer Software: Prepackaged Software"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4RIAX"
+            },
+            "Name": "FbzcJAmerican Capital Senior Floating, Ltd.",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4SIAX"
+            },
+            "Name": "sFqEuDorman Products, Inc.",
+            "Industry": "Capital Goods",
+            "Description": "Auto Parts:O.E.M."
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4TIAX"
+            },
+            "Name": "RSLUgQUALCOMM Incorporated",
+            "Industry": "Technology",
+            "Description": "Radio And Television Broadcasting And Communications Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4UIAX"
+            },
+            "Name": "xcwmdCypress Semiconductor Corporation",
+            "Industry": "Technology",
+            "Description": "Semiconductors"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4VIAX"
+            },
+            "Name": "WyvqZCapitala Finance Corp.",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4WIAX"
+            },
+            "Name": "DFtlhFirst Trust RBA American Industrial Renaissance ETF",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4XIAX"
+            },
+            "Name": "kJoGJSimmons First National Corporation",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4YIAX"
+            },
+            "Name": "TevOGSears Hometown and Outlet Stores, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Department/Specialty Retail Stores"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4ZIAX"
+            },
+            "Name": "kYXgMTiptree Financial Inc.",
+            "Industry": "Finance",
+            "Description": "Specialty Insurers"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4aIAH"
+            },
+            "Name": "OsdlORecon Technology, Ltd.",
+            "Industry": "Energy",
+            "Description": "Oilfield Services/Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4bIAH"
+            },
+            "Name": "XOhHRVOXX International Corporation",
+            "Industry": "Consumer Non-Durables",
+            "Description": "Electronic Components"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4cIAH"
+            },
+            "Name": "JwVaJTimberland Bancorp, Inc.",
+            "Industry": "Finance",
+            "Description": "Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4dIAH"
+            },
+            "Name": "xgiMyGordmans Stores, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Clothing/Shoe/Accessory Stores"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4eIAH"
+            },
+            "Name": "IxCEtKelly Services, Inc.",
+            "Industry": "Technology",
+            "Description": "Professional Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4fIAH"
+            },
+            "Name": "rAReLUTi Worldwide Inc.",
+            "Industry": "Transportation",
+            "Description": "Oil Refining/Marketing"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4gIAH"
+            },
+            "Name": "WUymOAir T, Inc.",
+            "Industry": "Transportation",
+            "Description": "Air Freight/Delivery Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4hIAH"
+            },
+            "Name": "HYkOMAnalog Devices, Inc.",
+            "Industry": "Technology",
+            "Description": "Semiconductors"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4iIAH"
+            },
+            "Name": "KUcVhAdamas Pharmaceuticals, Inc.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4jIAH"
+            },
+            "Name": "srUujShiloh Industries, Inc.",
+            "Industry": "Capital Goods",
+            "Description": "Industrial Specialties"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4kIAH"
+            },
+            "Name": "JVsqhAlcobra Ltd.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4lIAH"
+            },
+            "Name": "UWEUnPark Sterling Corporation",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4mIAH"
+            },
+            "Name": "wwGRVBig 5 Sporting Goods Corporation",
+            "Industry": "Consumer Services",
+            "Description": "Other Specialty Stores"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4nIAH"
+            },
+            "Name": "HjUIrRada Electronics Industries Limited",
+            "Industry": "Consumer Non-Durables",
+            "Description": "Electronic Components"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4oIAH"
+            },
+            "Name": "BNVtwNational General Holdings Corp",
+            "Industry": "Finance",
+            "Description": "Property-Casualty Insurers"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4pIAH"
+            },
+            "Name": "ZulphHealth Insurance Innovations, Inc.",
+            "Industry": "Finance",
+            "Description": "Specialty Insurers"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4qIAH"
+            },
+            "Name": "hCXSyManTech International Corporation",
+            "Industry": "Consumer Services",
+            "Description": "Other Consumer Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4rIAH"
+            },
+            "Name": "YikVhAmarin Corporation PLC",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4sIAH"
+            },
+            "Name": "YFtSWHaynes International, Inc.",
+            "Industry": "Capital Goods",
+            "Description": "Steel/Iron Ore"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4tIAH"
+            },
+            "Name": "FVxhKVerastem, Inc.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4uIAH"
+            },
+            "Name": "CcLFrFred&#39;s, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Department/Specialty Retail Stores"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4vIAH"
+            },
+            "Name": "oKFfUUnited Therapeutics Corporation",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4wIAH"
+            },
+            "Name": "yPlNUCharm Communications Inc.",
+            "Industry": "Technology",
+            "Description": "Advertising"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4xIAH"
+            },
+            "Name": "CWOADCharter Communications, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Television Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4yIAH"
+            },
+            "Name": "ujyTXThe Hain Celestial Group, Inc.",
+            "Industry": "Consumer Non-Durables",
+            "Description": "Packaged Foods"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW4zIAH"
+            },
+            "Name": "tYoYCArotech Corporation",
+            "Industry": "Miscellaneous",
+            "Description": "Industrial Machinery/Components"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW50IAH"
+            },
+            "Name": "WvSOVAmerica First Multifamily Investors, L.P.",
+            "Industry": "Finance",
+            "Description": "Finance: Consumer Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW51IAH"
+            },
+            "Name": "MuLrhYadkin Financial Corporation",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW52IAH"
+            },
+            "Name": "SskjCElbit Systems Ltd.",
+            "Industry": "Capital Goods",
+            "Description": "Military/Government/Technical"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW53IAH"
+            },
+            "Name": "iOSzVHarvest Capital Credit Corporation",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW54IAH"
+            },
+            "Name": "mYxAZHong Kong Television Network Limited",
+            "Industry": "Public Utilities",
+            "Description": "Telecommunications Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW55IAH"
+            },
+            "Name": "IWpzCBiostar Pharmaceuticals, Inc.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW56IAH"
+            },
+            "Name": "bpANtDynamic Materials Corporation",
+            "Industry": "Capital Goods",
+            "Description": "Industrial Specialties"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW57IAH"
+            },
+            "Name": "zMFQHSynergy Pharmaceuticals, Inc.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW58IAH"
+            },
+            "Name": "VKRImWisdomTree Middle East Dividend Fund",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW59IAH"
+            },
+            "Name": "YJZfCTesco Corporation",
+            "Industry": "Energy",
+            "Description": "Metal Fabrications"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5AIAX"
+            },
+            "Name": "gZGsvCalumet Specialty Products Partners, L.P.",
+            "Industry": "Energy",
+            "Description": "Integrated oil Companies"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5BIAX"
+            },
+            "Name": "zihRQNCI, Inc.",
+            "Industry": "Technology",
+            "Description": "EDP Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5CIAX"
+            },
+            "Name": "iMnpCArrowhead Research Corporation",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: Commercial Physical & Biological Resarch"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5DIAX"
+            },
+            "Name": "xuGaUAlcentra Capital Corp.",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5EIAX"
+            },
+            "Name": "kCWvAPLX Technology, Inc.",
+            "Industry": "Technology",
+            "Description": "Semiconductors"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5FIAX"
+            },
+            "Name": "kVNMkViewPoint Financial Group, Inc.",
+            "Industry": "Finance",
+            "Description": "Savings Institutions"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5GIAX"
+            },
+            "Name": "lGNjLHansen Medical, Inc.",
+            "Industry": "Health Care",
+            "Description": "Industrial Specialties"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5HIAX"
+            },
+            "Name": "tkWqzBeacon Roofing Supply, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "RETAIL: Building Materials"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5IIAX"
+            },
+            "Name": "QkpWbSLM Corporation",
+            "Industry": "Finance",
+            "Description": "Finance: Consumer Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5JIAX"
+            },
+            "Name": "lQIjIOcean Bio-Chem, Inc.",
+            "Industry": "Consumer Durables",
+            "Description": "Specialty Chemicals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5KIAX"
+            },
+            "Name": "BBnqUBlackBerry Limited",
+            "Industry": "Public Utilities",
+            "Description": "Telecommunications Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5LIAX"
+            },
+            "Name": "soMQcAmerica Movil, S.A.B. de C.V.",
+            "Industry": "Public Utilities",
+            "Description": "Telecommunications Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5MIAX"
+            },
+            "Name": "dTnvsBioCryst Pharmaceuticals, Inc.",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: Biological Products (No Diagnostic Substances)"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5NIAX"
+            },
+            "Name": "kzcYQPDI, Inc.",
+            "Industry": "Miscellaneous",
+            "Description": "Business Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5OIAX"
+            },
+            "Name": "YSSGMThe First of Long Island Corporation",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5PIAX"
+            },
+            "Name": "nHHVRCourier Corporation",
+            "Industry": "Consumer Services",
+            "Description": "Publishing"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5QIAX"
+            },
+            "Name": "iOFclIndependent Bank Corp.",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5RIAX"
+            },
+            "Name": "feIBqADDvantage Technologies Group, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Office Equipment/Supplies/Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5SIAX"
+            },
+            "Name": "jpIrTChelsea Therapeutics International, Ltd.",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: Biological Products (No Diagnostic Substances)"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5TIAX"
+            },
+            "Name": "LjyZMNeonode Inc.",
+            "Industry": "Capital Goods",
+            "Description": "Industrial Machinery/Components"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5UIAX"
+            },
+            "Name": "JBcyjT. Rowe Price Group, Inc.",
+            "Industry": "Finance",
+            "Description": "Investment Bankers/Brokers/Service"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5VIAX"
+            },
+            "Name": "KrEZSElecsys Corporation",
+            "Industry": "Capital Goods",
+            "Description": "Industrial Machinery/Components"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5WIAX"
+            },
+            "Name": "LkqAlExceed Company Ltd.",
+            "Industry": "Consumer Non-Durables",
+            "Description": "Shoe Manufacturing"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5XIAX"
+            },
+            "Name": "cinkRZAGG Inc",
+            "Industry": "Consumer Services",
+            "Description": "Other Specialty Stores"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5YIAX"
+            },
+            "Name": "dVYpoVanguard Russell 2000 ETF",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5ZIAX"
+            },
+            "Name": "xeQCHFirst Trust Low Beta Income ETF",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5aIAH"
+            },
+            "Name": "qFuTsASML Holding N.V.",
+            "Industry": "Technology",
+            "Description": "Industrial Machinery/Components"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5bIAH"
+            },
+            "Name": "ZeQEBAlbany Molecular Research, Inc.",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: Commercial Physical & Biological Resarch"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5cIAH"
+            },
+            "Name": "iZbcCCelladon Corporation",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: Biological Products (No Diagnostic Substances)"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5dIAH"
+            },
+            "Name": "QRgcXOncoGenex Pharmaceuticals Inc.",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5eIAH"
+            },
+            "Name": "SJWyNOrrstown Financial Services Inc",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5fIAH"
+            },
+            "Name": "hYICrBlue Nile, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Consumer Specialties"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5gIAH"
+            },
+            "Name": "hCCFhFidelity Southern Corporation",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5hIAH"
+            },
+            "Name": "GyFUdTransAct Technologies Incorporated",
+            "Industry": "Technology",
+            "Description": "Computer peripheral equipment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5iIAH"
+            },
+            "Name": "dgQfTSilgan Holdings Inc.",
+            "Industry": "Consumer Durables",
+            "Description": "Containers/Packaging"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5jIAH"
+            },
+            "Name": "hjGzFTown Sports International Holdings, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Hotels/Resorts"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5kIAH"
+            },
+            "Name": "GVYopThe Hackett Group, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Professional Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5lIAH"
+            },
+            "Name": "adngaLifetime Brands, Inc.",
+            "Industry": "Capital Goods",
+            "Description": "Industrial Machinery/Components"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5mIAH"
+            },
+            "Name": "ftRrHCellular Dynamics International, Inc.",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: Biological Products (No Diagnostic Substances)"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5nIAH"
+            },
+            "Name": "IkMRuAVEO Pharmaceuticals, Inc.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5oIAH"
+            },
+            "Name": "VqIPaEastern Virginia Bankshares, Inc.",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5pIAH"
+            },
+            "Name": "pFBBCSeaChange International, Inc.",
+            "Industry": "Technology",
+            "Description": "Radio And Television Broadcasting And Communications Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5qIAH"
+            },
+            "Name": "IfJgrAAON, Inc.",
+            "Industry": "Capital Goods",
+            "Description": "Industrial Machinery/Components"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5rIAH"
+            },
+            "Name": "zrUrkKona Grill, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Restaurants"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5sIAH"
+            },
+            "Name": "RjJRuUMB Financial Corporation",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5tIAH"
+            },
+            "Name": "IggHsFirst Citizens BancShares, Inc.",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5uIAH"
+            },
+            "Name": "oWjHFGeneral Finance Corporation",
+            "Industry": "Consumer Services",
+            "Description": "Other Specialty Stores"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5vIAH"
+            },
+            "Name": "rrleOZion Oil & Gas Inc",
+            "Industry": "Energy",
+            "Description": "Oil & Gas Production"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5wIAH"
+            },
+            "Name": "bLMcuWorld Energy Solutions Inc (DE)",
+            "Industry": "Miscellaneous",
+            "Description": "Business Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5xIAH"
+            },
+            "Name": "fmDlFHeron Therapeutics, Inc.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5yIAH"
+            },
+            "Name": "eWMALCherokee Inc.",
+            "Industry": "Consumer Non-Durables",
+            "Description": "Apparel"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW5zIAH"
+            },
+            "Name": "IZQCQJohn B. Sanfilippo & Son, Inc.",
+            "Industry": "Consumer Non-Durables",
+            "Description": "Specialty Foods"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW60IAH"
+            },
+            "Name": "YFAepZIOPHARM Oncology Inc",
+            "Industry": "Health Care",
+            "Description": "Medical Specialities"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW61IAH"
+            },
+            "Name": "dEXXBInternational Bancshares Corporation",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW62IAH"
+            },
+            "Name": "fhoPYAsure Software Inc",
+            "Industry": "Technology",
+            "Description": "EDP Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW63IAH"
+            },
+            "Name": "sBUvOCorVel Corp.",
+            "Industry": "Finance",
+            "Description": "Specialty Insurers"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW64IAH"
+            },
+            "Name": "RSXxmQunar Cayman Islands Limited",
+            "Industry": "Miscellaneous",
+            "Description": "Business Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW65IAH"
+            },
+            "Name": "chartInformatica Corporation",
+            "Industry": "Technology",
+            "Description": "Computer Software: Prepackaged Software"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW66IAH"
+            },
+            "Name": "OmvYjHennessy Advisors, Inc.",
+            "Industry": "Finance",
+            "Description": "Investment Managers"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW67IAH"
+            },
+            "Name": "EPDFLHerman Miller, Inc.",
+            "Industry": "Consumer Durables",
+            "Description": "Office Equipment/Supplies/Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW68IAH"
+            },
+            "Name": "kOUBAAccuray Incorporated",
+            "Industry": "Health Care",
+            "Description": "Medical/Dental Instruments"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW69IAH"
+            },
+            "Name": "cwKdMBeneficial Mutual Bancorp, Inc.",
+            "Industry": "Finance",
+            "Description": "Savings Institutions"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6AIAX"
+            },
+            "Name": "IhzqCApplied Genetic Technologies Corporation",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: Biological Products (No Diagnostic Substances)"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6BIAX"
+            },
+            "Name": "tnMjKSiliconware Precision Industries Company, Ltd.",
+            "Industry": "Technology",
+            "Description": "Semiconductors"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6CIAX"
+            },
+            "Name": "EpAksRepros Therapeutics Inc.",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: Biological Products (No Diagnostic Substances)"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6DIAX"
+            },
+            "Name": "EvQsPWoodward, Inc.",
+            "Industry": "Energy",
+            "Description": "Industrial Machinery/Components"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6EIAX"
+            },
+            "Name": "DSkYyFauquier Bankshares, Inc.",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6FIAX"
+            },
+            "Name": "oivffNational Security Group, Inc.",
+            "Industry": "Finance",
+            "Description": "Life Insurance"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6GIAX"
+            },
+            "Name": "ORqtGLiveDeal, Inc.",
+            "Industry": "Technology",
+            "Description": "EDP Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6HIAX"
+            },
+            "Name": "fvmfnBaxano Surgical, Inc.",
+            "Industry": "Health Care",
+            "Description": "Medical/Dental Instruments"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6IIAX"
+            },
+            "Name": "OQscARevolution Lighting Technologies, Inc.",
+            "Industry": "Basic Industries",
+            "Description": "Telecommunications Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6JIAX"
+            },
+            "Name": "qjNJUImris Inc",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6KIAX"
+            },
+            "Name": "GpYlDGlori Energy Inc",
+            "Industry": "Finance",
+            "Description": "Business Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6LIAX"
+            },
+            "Name": "JUcJhPilgrim&#39;s Pride Corporation",
+            "Industry": "Consumer Non-Durables",
+            "Description": "Meat/Poultry/Fish"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6MIAX"
+            },
+            "Name": "qjXlYMarlin Business Services Corp.",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6NIAX"
+            },
+            "Name": "uqwIEFive Below, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Department/Specialty Retail Stores"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6OIAX"
+            },
+            "Name": "pYmxPStock Building Supply Holdings, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "RETAIL: Building Materials"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6PIAX"
+            },
+            "Name": "OsUHVSonic Foundry, Inc.",
+            "Industry": "Technology",
+            "Description": "Radio And Television Broadcasting And Communications Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6QIAX"
+            },
+            "Name": "dbMZUChuy&#39;s Holdings, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Restaurants"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6RIAX"
+            },
+            "Name": "gjyKYIronwood Pharmaceuticals, Inc.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6SIAX"
+            },
+            "Name": "KzvBFBuffalo Wild Wings, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Restaurants"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6TIAX"
+            },
+            "Name": "QZvAnSummit State Bank",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6UIAX"
+            },
+            "Name": "MsnlZViaSat, Inc.",
+            "Industry": "Technology",
+            "Description": "Radio And Television Broadcasting And Communications Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6VIAX"
+            },
+            "Name": "UhGpXInternational Speedway Corporation",
+            "Industry": "Consumer Services",
+            "Description": "Services-Misc. Amusement & Recreation"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6WIAX"
+            },
+            "Name": "gnkTMVanguard Natural Resources LLC",
+            "Industry": "Energy",
+            "Description": "Oil & Gas Production"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6XIAX"
+            },
+            "Name": "uysHURemark Media, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Telecommunications Equipment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6YIAX"
+            },
+            "Name": "LMHPgUniversal Display Corporation",
+            "Industry": "Capital Goods",
+            "Description": "Electrical Products"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6ZIAX"
+            },
+            "Name": "usJpkGentiva Health Services, Inc.",
+            "Industry": "Health Care",
+            "Description": "Medical/Nursing Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6aIAH"
+            },
+            "Name": "RBBXfBSD Medical Corporation",
+            "Industry": "Health Care",
+            "Description": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6bIAH"
+            },
+            "Name": "dkZAxLiberty Interactive Corporation",
+            "Industry": "Consumer Services",
+            "Description": "Television Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6cIAH"
+            },
+            "Name": "vARjBCarmike Cinemas, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Movies/Entertainment"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6dIAH"
+            },
+            "Name": "HpXQcTake-Two Interactive Software, Inc.",
+            "Industry": "Technology",
+            "Description": "Computer Software: Prepackaged Software"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6eIAH"
+            },
+            "Name": "WdBRbMethanex Corporation",
+            "Industry": "Basic Industries",
+            "Description": "Major Chemicals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6fIAH"
+            },
+            "Name": "ZRhLnUltragenyx Pharmaceutical Inc.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6gIAH"
+            },
+            "Name": "JwlnOQuinpario Acquisiton corp.",
+            "Industry": "Consumer Durables",
+            "Description": "Miscellaneous manufacturing industries"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6hIAH"
+            },
+            "Name": "POZgENGP Capital Resources Company",
+            "Industry": "n/a",
+            "Description": "n/a"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6iIAH"
+            },
+            "Name": "AxgwHGalectin Therapeutics Inc.",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6jIAH"
+            },
+            "Name": "wDKTUTrustmark Corporation",
+            "Industry": "Finance",
+            "Description": "Major Banks"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6kIAH"
+            },
+            "Name": "VaAMZExpedia, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Transportation Services"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6lIAH"
+            },
+            "Name": "GSWVqDollar Tree, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Department/Specialty Retail Stores"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6mIAH"
+            },
+            "Name": "MmTKmThe Fresh Market, Inc.",
+            "Industry": "Consumer Services",
+            "Description": "Food Chains"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "ref001B000001KPW6nIAH"
+            },
+            "Name": "DPMZeNewLink Genetics Corporation",
+            "Industry": "Health Care",
+            "Description": "Major Pharmaceuticals"
+        }
+    ]
+}

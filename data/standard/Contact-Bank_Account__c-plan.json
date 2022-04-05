@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Contacts.json"
+        ]
+    },
+    {
+        "sobject": "Bank_Account__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Bank_Account__cs.json"
+        ]
+    }
+]

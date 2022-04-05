@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Bank_Product__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Bank_Product__cs.json"
+        ]
+    },
+    {
+        "sobject": "Bank_Account__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Bank_Account__cs.json"
+        ]
+    }
+]

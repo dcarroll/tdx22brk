@@ -1,0 +1,4 @@
+"Select Id, Name, Contact__r.Id, Contact__r.Name, Bank_Product__r.Id, Bank_Product__r.Name From Bank_Account__c"
+
+Select Id, Name, (Select Id, Name From Bank_Accounts__r) From Contact
+Select Id, Name, (Select Id, Name From Bank_Accounts__r) From Bank_Product__c

@@ -1,0 +1,11 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Bank_Product__c",
+                "referenceId": "Bank_Product__cRef1"
+            },
+            "Name": "Savings Account"
+        }
+    ]
+}

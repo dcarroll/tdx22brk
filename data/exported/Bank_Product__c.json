@@ -1,0 +1,132 @@
+{
+    "totalSize": 23,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "Bank_Product__c",
+                "referenceId": "refa01B0000006xAb2IAE"
+            },
+            "Name": "Business Checking Account",
+            "Bank_Code__c": "ind_cco_fin_ult1",
+            "ExternalId__c": "@refa004P00000uS0cAQAS",
+            "Description__c": "Over draft protection & No foreign transaction fee",
+            "Category__c": "Retirement",
+            "Online_Application__c": false
+        },
+        {
+            "attributes": {
+                "type": "Bank_Product__c",
+                "referenceId": "refa01B0000006xAb4IAE"
+            },
+            "Name": "Payroll Account",
+            "Bank_Code__c": "ind_cno_fin_ult1",
+            "ExternalId__c": "@refa004P00000uS0cCQAS",
+            "Description__c": "Small Business Payroll Account",
+            "Category__c": "Business",
+            "Online_Application__c": false
+        },
+        {
+            "attributes": {
+                "type": "Bank_Product__c",
+                "referenceId": "refa01B0000006xAb6IAE"
+            },
+            "Name": "Más particular Account",
+            "Bank_Code__c": "ind_ctma_fin_ult1",
+            "ExternalId__c": "@refa004P00000uS0cEQAS",
+            "Category__c": "Business",
+            "Online_Application__c": false
+        },
+        {
+            "attributes": {
+                "type": "Bank_Product__c",
+                "referenceId": "refa01B0000006xAb8IAE"
+            },
+            "Name": "IRA",
+            "Bank_Code__c": "ind_ctpp_fin_ult1",
+            "ExternalId__c": "@refa004P00000uS0cGQAS",
+            "Category__c": "Retirement",
+            "Online_Application__c": false
+        },
+        {
+            "attributes": {
+                "type": "Bank_Product__c",
+                "referenceId": "refa01B0000006xAbAIAU"
+            },
+            "Name": "Medium-term deposits",
+            "Bank_Code__c": "ind_deme_fin_ult1",
+            "ExternalId__c": "@refa004P00000uS0cIQAS",
+            "Category__c": "Retirement",
+            "Online_Application__c": false
+        },
+        {
+            "attributes": {
+                "type": "Bank_Product__c",
+                "referenceId": "refa01B0000006xAbCIAU"
+            },
+            "Name": "e-account",
+            "Bank_Code__c": "ind_ecue_fin_ult1",
+            "ExternalId__c": "@refa004P00000uS0cKQAS",
+            "Category__c": "Retirement",
+            "Online_Application__c": false
+        },
+        {
+            "attributes": {
+                "type": "Bank_Product__c",
+                "referenceId": "refa01B0000006xAbEIAU"
+            },
+            "Name": "Mortgage",
+            "Bank_Code__c": "ind_hip_fin_ult1",
+            "ExternalId__c": "@refa004P00000uS0cMQAS",
+            "Description__c": "30-year fixed @ 3.75%",
+            "Category__c": "Trading",
+            "Online_Application__c": false
+        },
+        {
+            "attributes": {
+                "type": "Bank_Product__c",
+                "referenceId": "refa01B0000006xAbGIAU"
+            },
+            "Name": "Loans",
+            "Bank_Code__c": "ind_pres_fin_ult1",
+            "ExternalId__c": "@refa004P00000uS0cOQAS",
+            "Category__c": "Trading",
+            "Online_Application__c": false
+        },
+        {
+            "attributes": {
+                "type": "Bank_Product__c",
+                "referenceId": "refa01B0000006xAbIIAU"
+            },
+            "Name": "Credit Card",
+            "Bank_Code__c": "ind_tjcr_fin_ult1",
+            "ExternalId__c": "@refa004P00000uS0cQQAS",
+            "Category__c": "Trading",
+            "Online_Application__c": false
+        },
+        {
+            "attributes": {
+                "type": "Bank_Product__c",
+                "referenceId": "refa01B0000006xAbKIAU"
+            },
+            "Name": "Home Account",
+            "Bank_Code__c": "ind_viv_fin_ult1",
+            "ExternalId__c": "@refa004P00000uS0cSQAS",
+            "Description__c": "3% Home Equity Line of Credit",
+            "Category__c": "Trading",
+            "Online_Application__c": false
+        },
+        {
+            "attributes": {
+                "type": "Bank_Product__c",
+                "referenceId": "refa01B0000006xAbMIAU"
+            },
+            "Name": "Pensions",
+            "Bank_Code__c": "ind_nom_pens_ult1",
+            "ExternalId__c": "@refa004P00000uS0cUQAS",
+            "Description__c": "Defined contribution pension plan",
+            "Category__c": "Retirement",
+            "Online_Application__c": false
+        }
+    ]
+}
