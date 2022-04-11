@@ -1,0 +1,370 @@
+[
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAb1IAE"
+        },
+        "Bank_Code__c": "ind_ahor_fin_ult1",
+        "Category__c": "Retirement",
+        "ExternalId__c": "a004P00000uS0c8QAC",
+        "Description__c": "0.85% APY with $200 sign-in bonus",
+        "Id": "a01B0000006xAb1IAE",
+        "Minimum_Deposit__c": null,
+        "Name": "Savings Account",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAb2IAE"
+        },
+        "Bank_Code__c": "ind_cco_fin_ult1",
+        "Category__c": "Retirement",
+        "ExternalId__c": "a004P00000uS0cAQAS",
+        "Description__c": "Over draft protection & No foreign transaction fee",
+        "Id": "a01B0000006xAb2IAE",
+        "Minimum_Deposit__c": null,
+        "Name": "Business Checking Account",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAb3IAE"
+        },
+        "Bank_Code__c": "ind_cder_fin_ult1",
+        "Category__c": "Business",
+        "ExternalId__c": "a004P00000uS0cBQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAb3IAE",
+        "Minimum_Deposit__c": null,
+        "Name": "Derivada Account",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAb4IAE"
+        },
+        "Bank_Code__c": "ind_cno_fin_ult1",
+        "Category__c": "Business",
+        "ExternalId__c": "a004P00000uS0cCQAS",
+        "Description__c": "Small Business Payroll Account",
+        "Id": "a01B0000006xAb4IAE",
+        "Minimum_Deposit__c": null,
+        "Name": "Payroll Account",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAb5IAE"
+        },
+        "Bank_Code__c": "ind_ctju_fin_ult1",
+        "Category__c": "Business",
+        "ExternalId__c": "a004P00000uS0cDQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAb5IAE",
+        "Minimum_Deposit__c": null,
+        "Name": "Junior Account",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAb6IAE"
+        },
+        "Bank_Code__c": "ind_ctma_fin_ult1",
+        "Category__c": "Business",
+        "ExternalId__c": "a004P00000uS0cEQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAb6IAE",
+        "Minimum_Deposit__c": null,
+        "Name": "Más particular Account",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAb7IAE"
+        },
+        "Bank_Code__c": "ind_ctop_fin_ult1",
+        "Category__c": "Retirement",
+        "ExternalId__c": "a004P00000uS0cFQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAb7IAE",
+        "Minimum_Deposit__c": null,
+        "Name": "Roth IRA",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAb8IAE"
+        },
+        "Bank_Code__c": "ind_ctpp_fin_ult1",
+        "Category__c": "Retirement",
+        "ExternalId__c": "a004P00000uS0cGQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAb8IAE",
+        "Minimum_Deposit__c": null,
+        "Name": "IRA",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAb9IAE"
+        },
+        "Bank_Code__c": "ind_deco_fin_ult1",
+        "Category__c": "Business",
+        "ExternalId__c": "a004P00000uS0cHQAS",
+        "Description__c": "30-day CDs @ 0.5%",
+        "Id": "a01B0000006xAb9IAE",
+        "Minimum_Deposit__c": null,
+        "Name": "Short-term deposits",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbAIAU"
+        },
+        "Bank_Code__c": "ind_deme_fin_ult1",
+        "Category__c": "Retirement",
+        "ExternalId__c": "a004P00000uS0cIQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAbAIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "Medium-term deposits",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbBIAU"
+        },
+        "Bank_Code__c": "ind_dela_fin_ult1",
+        "Category__c": "Retirement",
+        "ExternalId__c": "a004P00000uS0cJQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAbBIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "Long-term deposits",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbCIAU"
+        },
+        "Bank_Code__c": "ind_ecue_fin_ult1",
+        "Category__c": "Retirement",
+        "ExternalId__c": "a004P00000uS0cKQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAbCIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "e-account",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbDIAU"
+        },
+        "Bank_Code__c": "ind_fond_fin_ult1",
+        "Category__c": "Business",
+        "ExternalId__c": "a004P00000uS0cLQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAbDIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "Funds",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbEIAU"
+        },
+        "Bank_Code__c": "ind_hip_fin_ult1",
+        "Category__c": "Trading",
+        "ExternalId__c": "a004P00000uS0cMQAS",
+        "Description__c": "30-year fixed @ 3.75%",
+        "Id": "a01B0000006xAbEIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "Mortgage",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbFIAU"
+        },
+        "Bank_Code__c": "ind_plan_fin_ult1",
+        "Category__c": "Retirement",
+        "ExternalId__c": "a004P00000uS0cNQAS",
+        "Description__c": "Defined benefit pension plan",
+        "Id": "a01B0000006xAbFIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "Pensions",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbGIAU"
+        },
+        "Bank_Code__c": "ind_pres_fin_ult1",
+        "Category__c": "Trading",
+        "ExternalId__c": "a004P00000uS0cOQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAbGIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "Loans",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbHIAU"
+        },
+        "Bank_Code__c": "ind_reca_fin_ult1",
+        "Category__c": "Retirement",
+        "ExternalId__c": "a004P00000uS0cPQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAbHIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "401k",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbIIAU"
+        },
+        "Bank_Code__c": "ind_tjcr_fin_ult1",
+        "Category__c": "Trading",
+        "ExternalId__c": "a004P00000uS0cQQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAbIIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "Credit Card",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbJIAU"
+        },
+        "Bank_Code__c": "ind_valo_fin_ult1",
+        "Category__c": "Business",
+        "ExternalId__c": "a004P00000uS0cRQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAbJIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "Securities",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbKIAU"
+        },
+        "Bank_Code__c": "ind_viv_fin_ult1",
+        "Category__c": "Trading",
+        "ExternalId__c": "a004P00000uS0cSQAS",
+        "Description__c": "3% Home Equity Line of Credit",
+        "Id": "a01B0000006xAbKIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "Home Account",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbLIAU"
+        },
+        "Bank_Code__c": "ind_nomina_ult1",
+        "Category__c": "Business",
+        "ExternalId__c": "a004P00000uS0cTQAS",
+        "Description__c": null,
+        "Id": "a01B0000006xAbLIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "Payroll",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbMIAU"
+        },
+        "Bank_Code__c": "ind_nom_pens_ult1",
+        "Category__c": "Retirement",
+        "ExternalId__c": "a004P00000uS0cUQAS",
+        "Description__c": "Defined contribution pension plan",
+        "Id": "a01B0000006xAbMIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "Pensions",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    },
+    {
+        "attributes": {
+            "type": "Bank_Product__c",
+            "url": "/services/data/v54.0/sobjects/Bank_Product__c/a01B0000006xAbNIAU"
+        },
+        "Bank_Code__c": "ind_recibo_ult1",
+        "Category__c": "Retirement",
+        "ExternalId__c": "a004P00000uS0cVQAS",
+        "Description__c": "No annual fees. 1% Cashback",
+        "Id": "a01B0000006xAbNIAU",
+        "Minimum_Deposit__c": null,
+        "Name": "Direct Debit",
+        "Online_Application__c": false,
+        "Product_Category__c": null,
+        "Promotion_Type__c": null
+    }
+]

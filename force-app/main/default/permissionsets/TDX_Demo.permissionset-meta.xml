@@ -518,4 +518,8 @@
         <object>Contact</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <tabSettings>
+        <tab>Bank_Product__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>
