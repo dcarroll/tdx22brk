@@ -4,6 +4,7 @@
 **/sfdcInternalInt__sfdc_aiplatform.permissionset-meta.xml
 force-app/main/default/profiles/Admin.profile-meta.xml
 package.xml
+Churn_Score__c.customfield
 
 # LWC configuration files
 **/jsconfig.json
