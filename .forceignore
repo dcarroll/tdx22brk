@@ -5,6 +5,15 @@
 force-app/main/default/profiles/Admin.profile-meta.xml
 package.xml
 Churn_Score__c.customfield
+Churn_Probability__c.customfield
+**/recommendationStrategies/**
+**/mlRecommendations/**
+**/mlPredictions/**
+**/mlDataDefinitions/**
+**/AIApplications/**
+**/AIApplicationConfigs/**
+**/flexipages/**
+force-app/main/default/applications/Bright_Bank.app-meta.xml
 
 # LWC configuration files
 **/jsconfig.json
