@@ -517,4 +517,8 @@
         <tab>Bank_Product__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
+    <tabSettings>
+        <tab>Bank_Account__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>
