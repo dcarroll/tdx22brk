@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MLRecommendationDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <aiApplicationDeveloperName>Retention_Recommendation</aiApplicationDeveloperName>
+    <developerName>mlrd_0Pp2F000000CjF3SAK_v0</developerName>
+    <externalId>0b38f4c6-6eea-45ea-8b48-3cea9ec4b246</externalId>
+    <masterLabel>Retention Recommendation</masterLabel>
+    <status>Enabled</status>
+</MLRecommendationDefinition>

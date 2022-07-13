@@ -2,5 +2,6 @@
   "search.exclude": {
     "**/bower_components": true,
     "**/node_modules": true
-  }
+  },
+  "workbench.colorTheme": "Visual Studio Light"
 }

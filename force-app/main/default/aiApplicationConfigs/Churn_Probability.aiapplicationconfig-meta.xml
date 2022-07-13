@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIApplicationConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <aiApplicationDeveloperName>Churn_Probability</aiApplicationDeveloperName>
+    <applicationId>0Pp2F000000CjEy</applicationId>
+    <developerName>Churn_Probability</developerName>
+    <insightReasonEnabled>false</insightReasonEnabled>
+    <masterLabel>MasterLabel_Churn_Probability</masterLabel>
+    <rank>1</rank>
+    <scoringMode>Batch</scoringMode>
+</AIApplicationConfig>

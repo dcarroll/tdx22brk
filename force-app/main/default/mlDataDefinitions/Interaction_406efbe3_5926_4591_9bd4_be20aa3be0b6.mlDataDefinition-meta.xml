@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MLDataDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <developerName>Interaction_406efbe3_5926_4591_9bd4_be20aa3be0b6</developerName>
+    <entityDeveloperName>Bank_Account__c</entityDeveloperName>
+    <joinFields>
+        <entity>Bank_Account__c</entity>
+        <field>Contact__c</field>
+        <relatedField>
+            <entity>Contact</entity>
+            <field>Id</field>
+            <type>Related</type>
+        </relatedField>
+        <type>Join</type>
+    </joinFields>
+    <joinFields>
+        <entity>Bank_Account__c</entity>
+        <field>Bank_Product__c</field>
+        <relatedField>
+            <entity>Bank_Product__c</entity>
+            <field>Name</field>
+            <type>Related</type>
+        </relatedField>
+        <type>Join</type>
+    </joinFields>
+    <parentDefinitionDevName>mlrd_0Pp2F000000CjF3SAK_v0</parentDefinitionDevName>
+    <type>Interaction</type>
+</MLDataDefinition>
